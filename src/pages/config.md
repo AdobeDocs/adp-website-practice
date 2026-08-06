@@ -1,5 +1,5 @@
 - pathPrefix:
-    - /dev-docs-template/
+    - /adp-website-practice/
 
 - pages:
     - [Analytics](index.md)
